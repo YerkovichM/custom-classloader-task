@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 public class Main {
 
     private final static String textServiceUpdatableClassPath = "classloader.TextServiceUpdatable";
-    private final static String classPath = "C:\\Users\\yerko\\IdeaProjects\\custom-classloader-task\\target\\classes";
+    private final static String classPath = "target/classes";
 
     public static void main(String[] args) throws Exception {
         taskClassLoader();
